@@ -1,0 +1,69 @@
+---
+title: "Teaching & Training"
+pagetitle: "Teaching and Training — Katarzyna Kamieniecka"
+description-meta: "Data stewardship and computational biology training: ELIXIR-UK DaSH Fellowship, Galaxy Training Network tutorials, ELIXIR/GOBLET Train-the-Trainer."
+---
+
+Teaching is not a side activity for me. A workflow that nobody else can run is not
+reproducible, so most of my training work is about closing that gap — turning FAIR
+principles and governance policy into guidance people can apply on a Tuesday afternoon.
+
+## ELIXIR-UK Data Stewardship Training
+
+As Lead Data Stewardship Trainer I design and deliver around **30 hands-on workshops
+and webinars a year** on research data management, FAIR data, workflow automation,
+reproducible tooling and AI-assisted work, for audiences from clinical fellows to
+software developers.
+
+Within the **DaSH Fellowship** I mentor **24 Fellows across 17 organisations** through
+one-to-one coaching, competency-based portfolio review and practical troubleshooting,
+and evaluate the programme using qualitative feedback, observation and reflection to
+feed findings back into the curriculum.
+
+## ELIXIR / GOBLET Train-the-Trainer (2024–2027)
+
+Co-lead of a train-the-trainer programme spanning **seven European ELIXIR Nodes and
+EMBL-EBI**, strengthening course design, delivery, assessment and the instructor
+community across the network.
+
+## Galaxy Training Network
+
+Contributor to **26 published or peer-reviewed open-access tutorials and learning
+resources** in the [Galaxy Training Network](https://training.galaxyproject.org),
+with editorial-board work on technical accuracy, clarity and reproducibility.
+
+## What I teach
+
+::: {.card-grid}
+::: {}
+#### Reproducible workflows
+
+Nextflow DSL2 and nf-core, Galaxy, Docker and Singularity, version control, running
+analyses on HPC and cloud.
+:::
+
+::: {}
+#### FAIR data and stewardship
+
+Metadata models, persistent identifiers, data lineage and ownership, data management
+plans, governance and compliance.
+:::
+
+::: {}
+#### Epigenomics analysis
+
+Illumina methylation array analysis end to end, for people who do not write code.
+:::
+
+::: {}
+#### AI and automation for research
+
+LLM-assisted workflows, prompt design, retrieval-augmented generation, and the safety
+and data-protection questions that come with them.
+:::
+:::
+
+## Invitations
+
+I am happy to run workshops, give talks or review training material. The quickest route
+is [email](mailto:katarzynamurat.bioinf@gmail.com).

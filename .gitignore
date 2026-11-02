@@ -1,0 +1,7 @@
+_site/
+.quarto/
+*.html
+!include/head.html
+.DS_Store
+
+/.quarto/

@@ -1,0 +1,59 @@
+---
+title: "Curriculum Vitae"
+pagetitle: "CV — Katarzyna Kamieniecka"
+description-meta: "Curriculum vitae of Katarzyna Kamieniecka: computational biology, epigenomics, research data stewardship."
+---
+
+## Appointments
+
+::: {.timeline}
+- [2023 — present]{.when}<br>[Lead Data Stewardship Trainer]{.what}<br>ELIXIR-UK / University of Bradford
+  <br><small>Design and delivery of training in research data management, computational
+  biology and medical informatics. Around 30 workshops a year; 24 Fellows mentored
+  across 17 organisations; programme evaluation and impact evidence for REF and UKRI
+  reporting.</small>
+- [2019 — 2023]{.when}<br>[Senior Computational Biologist]{.what}<br>Cancer Research UK Manchester Institute
+  <br><small>Containerised Nextflow workflows for cfDNA and DNA methylation analysis
+  across Linux, HPC and cloud; data from 184 patients across four multi-centre studies;
+  end-to-end quality control, documentation and technical onboarding for clinical,
+  laboratory and computational teams.</small>
+- [2016 — 2019]{.when}<br>[Bioinformatics Assistant]{.what}<br>University of Bradford
+  <br><small>Statistical genetics and bioinformatics support for 10+ genomics and
+  epigenetics studies; reusable open-source analysis workflows; quality-control
+  procedures and documentation; training for postgraduate users.</small>
+:::
+
+## Education
+
+::: {.timeline}
+- [2020 — 2026 (expected)]{.when}<br>[PhD, Computational Biology / Pharmacoepigenomics]{.what}<br>University of Bradford
+  <br><small>Thesis: AI precision psychiatry in treatment-resistant schizophrenia on
+  clozapine. A reproducible cross-array framework for longitudinal DNA methylation
+  (Illumina 450K / EPIC; 126 samples from 38 individuals).</small>
+- [2018 — 2020]{.when}<br>[MPhil, Biomedical Science]{.what}<br>University of Bradford
+  <br><small>EWASTools: a Galaxy-integrated pipeline for Illumina methylation arrays,
+  published in *GigaScience*.</small>
+- [2013 — 2016]{.when}<br>[BSc, Bioinformatics]{.what}<br>University of Gdańsk
+:::
+
+## Skills
+
+| | |
+|---|---|
+| **Genomics & epigenomics** | Illumina Infinium methylation arrays (450K, EPIC), EWAS, GWAS, rare-variant analysis, cfDNA / liquid biopsy, MBD-seq, RNA-seq, Nanopore methylation |
+| **Workflow engineering** | Nextflow DSL2, nf-core, Galaxy, Docker, Singularity, Linux, AWS, HPC |
+| **Statistics & ML** | R, statistical genetics, PLINK, machine learning on omics features |
+| **Data stewardship** | FAIR principles, metadata management, data lineage and ownership, data catalogues, GA4GH-aligned validation, ontology-based checks, governance and compliance |
+| **Training** | Workshop and curriculum design, technical documentation, tutorials, mentorship, training-effectiveness evaluation |
+| **AI & automation** | LLM tooling, prompt engineering, retrieval-augmented generation, agentic workflows, AI safety |
+
+: {tbl-colwidths="[28,72]"}
+
+## Selected open-source and community work
+
+- **EWAS-Galaxy / `ewastools`** (2020 — present) — community-facing workflow suite for population epigenetics, published in *GigaScience*
+- **Galaxy Training Network** — 26 published or reviewed open-access tutorials and learning resources; editorial board
+- **ELIXIR / GOBLET Train-the-Trainer** (2024 — 2027) — co-lead across seven European ELIXIR Nodes and EMBL-EBI
+- Contributions to **nf-core**, **Bioconda** and the **ELIXIR RDMkit**
+
+[Publications →](publications.qmd)

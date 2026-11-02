@@ -1,0 +1,61 @@
+---
+title: "Publications"
+pagetitle: "Publications — Katarzyna Kamieniecka"
+description-meta: "Peer-reviewed articles, preprints and conference posters by Katarzyna Kamieniecka (publishing earlier as Katarzyna Murat)."
+---
+
+Work published before 2023 appears under my maiden name, **Katarzyna Murat**.
+A BibTeX file of everything on this page is available: [`references.bib`](references.bib).
+
+## Peer-reviewed articles
+
+<div class="pub">
+<div class="pub-title">DDGWizard: Integration of feature calculation resources for analysis and prediction of changes in protein thermostability upon point mutations</div>
+<div class="pub-authors">Mingkai Wang , Khaled Jumah , Qun Shao , <span class="me">Katarzyna Kamieniecka</span> , Yihan Liu , Krzysztof Poterlowicz</div>
+<div class="pub-venue"><em>PLOS Computational Biology</em> · 2025 · <a href="https://doi.org/10.1371/journal.pcbi.1013783">doi:10.1371/journal.pcbi.1013783</a></div>
+</div>
+
+<div class="pub">
+<div class="pub-title">Ewastools: Infinium Human Methylation BeadChip pipeline for population epigenetics integrated into Galaxy</div>
+<div class="pub-authors"><span class="me">Katarzyna Murat</span> , Björn Grüning , Paulina Wiktoria Poterlowicz , Gillian Westgate , Desmond J Tobin , Krzysztof Poterlowicz</div>
+<div class="pub-venue"><em>GigaScience</em> · 2020 · <a href="https://doi.org/10.1093/gigascience/giaa049">doi:10.1093/gigascience/giaa049</a></div>
+</div>
+
+## Preprints
+
+<div class="pub">
+<div class="pub-title">EWAS-Galaxy: a tools suite for population epigenetics integrated into Galaxy</div>
+<div class="pub-authors"><span class="me">Katarzyna Murat</span> , Björn Grüning , Paulina Wiktoria Poterlowicz , Gillian Westgate , Desmond J Tobin , Krzysztof Poterlowicz</div>
+<div class="pub-venue"><em>bioRxiv</em> · preprint · 2019 · <a href="https://doi.org/10.1101/553784">doi:10.1101/553784</a></div>
+</div>
+
+## Conference posters
+
+<div class="pub">
+<div class="pub-title">Enhancing bioinformatics training through ELIXIRGOBLET Train-the-Trainer (TtT) programme</div>
+<div class="pub-authors">Patricia Palagi , Allegra Via , Lisanna Paladin , Khaled Jumah , <span class="me">Katarzyna Kamieniecka</span> , Krzysztof Poterlowicz</div>
+<div class="pub-venue"><em>F1000Research</em> · poster · 2025 · <a href="https://doi.org/10.7490/f1000research.1120230.1">doi:10.7490/f1000research.1120230.1</a></div>
+</div>
+
+<div class="pub">
+<div class="pub-title">The ELIXIR-UK training club: Building skills and expanding opportunities</div>
+<div class="pub-authors"><span class="me">Katarzyna Kamieniecka</span> , Khaled Jumah , Xenia Perez-sitja , Urmi Trivedi , Wendi Bacon , Krzysztof Poterlowicz</div>
+<div class="pub-venue"><em>F1000Research</em> · poster · 2025 · <a href="https://doi.org/10.7490/f1000research.1120229.1">doi:10.7490/f1000research.1120229.1</a></div>
+</div>
+
+<div class="pub">
+<div class="pub-title">EWAS-Galaxy: a tool suite for population epigenetics integrated into the Galaxy</div>
+<div class="pub-authors"><span class="me">Katarzyna Murat</span> , Desmond J. Tobin , Krzysztof Poterlowicz</div>
+<div class="pub-venue"><em>F1000Research</em> · poster · 2018 · <a href="https://doi.org/10.7490/f1000research.1115968.1">doi:10.7490/f1000research.1115968.1</a></div>
+</div>
+
+<div class="pub">
+<div class="pub-title">The Galaxy workflow for epigenetic profiling of progressing melanoma</div>
+<div class="pub-authors"><span class="me">Katarzyna Murat</span> , Krzysztof Poterlowicz</div>
+<div class="pub-venue"><em>F1000Research</em> · poster · 2016 · <a href="https://doi.org/10.7490/f1000research.1112717.1">doi:10.7490/f1000research.1112717.1</a></div>
+</div>
+
+## Contributions without authorship
+
+Pipeline and analysis work at the CRUK Manchester Institute contributed to studies
+published in *Nature Cancer* and *Nature Communications*.

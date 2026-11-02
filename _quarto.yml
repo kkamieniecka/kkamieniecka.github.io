@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Katarzyna Kamieniecka"
+  description: "Computational biologist and data steward working on reproducible epigenomics workflows, cross-array DNA methylation harmonisation and FAIR research data training."
+  site-url: https://kkamieniecka.github.io
+  repo-url: https://github.com/kkamieniecka/kkamieniecka.github.io
+  favicon: assets/favicon.png
+  open-graph: true
+  twitter-card: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: software.qmd
+        text: Software
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/kkamieniecka
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kkamieniecka
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Katarzyna Kamieniecka"
+    right:
+      - text: "GitHub"
+        href: https://github.com/kkamieniecka
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/kkamieniecka
+      - text: "Contact"
+        href: mailto:katarzynamurat.bioinf@gmail.com
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    link-external-newwindow: true
+    include-in-header: include/head.html
+    grid:
+      sidebar-width: 220px
+      body-width: 900px

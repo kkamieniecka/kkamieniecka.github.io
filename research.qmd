@@ -1,0 +1,57 @@
+---
+title: "Research"
+pagetitle: "Research — Katarzyna Kamieniecka"
+description-meta: "Cross-array harmonisation of Illumina 450K and EPIC DNA methylation data, longitudinal EWAS, and pharmacoepigenomics of clozapine response in treatment-resistant schizophrenia."
+---
+
+## Cross-array harmonisation for longitudinal EWAS
+
+Longitudinal epigenome-wide association studies have a practical problem that is rarely
+acknowledged in the analysis: cohorts recruited over several years are often typed on
+more than one array generation. Baseline samples sit on the Illumina Infinium 450K
+BeadChip, follow-up samples on the EPIC array. The two platforms share only part of
+their probe content, and the probes they do share do not always behave identically.
+
+My doctoral work develops a reproducible framework for combining the two generations in
+a single longitudinal analysis — probe filtering, normalisation and batch handling
+chosen so that the array generation does not become the dominant source of variance, and
+the whole thing packaged so that it can be rerun rather than described.
+
+The framework is being developed on a longitudinal cohort of **126 samples from 38
+individuals**, and implemented as reusable Galaxy and R components rather than a
+one-off script.
+
+::: {.callout-tip appearance="simple"}
+Code: [`ewas-crossarray-harmonise`](https://github.com/kkamieniecka/ewas-crossarray-harmonise) —
+reproducible cross-array harmonisation and region detection for longitudinal EWAS.
+:::
+
+## Pharmacoepigenomics of clozapine response
+
+Clozapine is the only drug licensed for treatment-resistant schizophrenia (TRS), and
+response to it varies widely between patients. The thesis asks how much of that
+variation is visible in the methylome, and whether routinely generated array data can
+support the kind of precision-psychiatry decisions that are currently made on clinical
+grounds alone.
+
+A concrete negative result matters here as much as the positive ones: methylation arrays
+**improve sample-identity quality control** in longitudinal designs, where sample
+mix-ups are a real risk, but the SNP content they carry **cannot substitute for proper
+CYP genotyping** when the question is drug metabolism. Reporting that boundary honestly
+is part of the contribution.
+
+## Earlier work: cancer genomics and liquid biopsy
+
+At the CRUK Manchester Institute I built and maintained containerised Nextflow pipelines
+for cell-free DNA and DNA methylation analysis across Linux, HPC and cloud environments,
+supporting data from **184 patients** across multi-centre studies, with pipeline work
+contributing to research published in *Nature Cancer* and *Nature Communications*.
+
+## Methods I work with
+
+- Illumina Infinium methylation arrays (450K, EPIC): `.idat` import, QC, normalisation, DMP and DMR calling
+- Nanopore methylation calling and variant analysis
+- cfDNA / liquid biopsy analysis, MBD-seq, RNA-seq
+- Statistical genetics: GWAS/EWAS, rare-variant analysis, PLINK
+- Workflow engineering: Nextflow DSL2, nf-core, Galaxy, Docker, Singularity, AWS and HPC
+- Machine learning applied to transcriptomic and methylomic features

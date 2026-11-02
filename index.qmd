@@ -1,0 +1,78 @@
+---
+title: "Katarzyna Kamieniecka"
+pagetitle: "Katarzyna Kamieniecka — Computational Biology & Research Data Stewardship"
+description-meta: "PhD researcher in computational biology and pharmacoepigenomics at the University of Bradford, and Lead Data Stewardship Trainer for ELIXIR-UK."
+toc: false
+---
+
+::: {.hero}
+![](assets/profile.jpg){fig-alt="Katarzyna Kamieniecka"}
+
+::: {.hero-text}
+## Computational biology, epigenomics and FAIR research data
+
+::: {.affil}
+PhD Researcher in Computational Biology & Pharmacoepigenomics, **University of Bradford**<br>
+Lead Data Stewardship Trainer, **ELIXIR-UK**
+:::
+
+I build reproducible workflows for population epigenomics and teach researchers how to
+manage data well. My doctoral work develops a cross-array framework for longitudinal
+DNA methylation studies, applied to treatment-resistant schizophrenia in patients on
+clozapine. Alongside the research I lead data stewardship training for ELIXIR-UK,
+delivering around 30 hands-on workshops a year.
+
+::: {.badges}
+[GitHub](https://github.com/kkamieniecka)
+[LinkedIn](https://www.linkedin.com/in/kkamieniecka)
+[Publications](publications.qmd)
+[Email](mailto:katarzynamurat.bioinf@gmail.com)
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+Earlier work, including the EWAS-Galaxy / `ewastools` suite, is published under my
+maiden name **Katarzyna Murat**.
+:::
+
+## What I work on
+
+::: {.card-grid}
+::: {}
+#### Cross-array DNA methylation
+
+Harmonising Illumina 450K and EPIC data so that longitudinal cohorts sampled years apart
+can be analysed as one study, without the array generation driving the signal.
+:::
+
+::: {}
+#### Pharmacoepigenomics
+
+Methylation and pharmacogenomic markers of clozapine response in treatment-resistant
+schizophrenia, and what array data can and cannot tell you about drug metabolism.
+:::
+
+::: {}
+#### Reproducible workflows
+
+Nextflow DSL2 and Galaxy tool suites, containerised and documented, so that an analysis
+can be rerun years later by someone who did not write it.
+:::
+
+::: {}
+#### FAIR data and training
+
+Data stewardship curricula, Galaxy Training Network tutorials and train-the-trainer
+programmes across European ELIXIR Nodes.
+:::
+:::
+
+## Current positions
+
+::: {.timeline}
+- [2023 — present]{.when}<br>[Lead Data Stewardship Trainer]{.what} · ELIXIR-UK / University of Bradford
+- [2020 — 2026 (expected)]{.when}<br>[PhD Researcher, Computational Biology & Pharmacoepigenomics]{.what} · University of Bradford
+:::
+
+[Full CV →](cv.qmd)

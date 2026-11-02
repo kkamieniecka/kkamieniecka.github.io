@@ -1,0 +1,59 @@
+---
+title: "Software"
+pagetitle: "Software — Katarzyna Kamieniecka"
+description-meta: "Open-source bioinformatics workflows: EWAS-Galaxy / ewastools, cross-array EWAS harmonisation, Nanopore methylation and variant pipelines."
+---
+
+Everything below is open source. Where a tool is published, the paper is on the
+[publications](publications.qmd) page.
+
+## EWAS-Galaxy / `ewastools`
+
+A tool suite for population epigenetics integrated into Galaxy: an end-to-end workflow
+for Illumina Infinium methylation arrays that a researcher can run without writing code,
+from `.idat` import through quality control to differentially methylated position and
+region calling. Distributed through the Galaxy ToolShed with Docker images, and published
+in *GigaScience* (2020).
+
+[Repository](https://github.com/kkamieniecka/ewas_galaxy) ·
+[Paper](https://doi.org/10.1093/gigascience/giaa049)
+
+## `ewas-crossarray-harmonise`
+
+Reproducible cross-array harmonisation and region detection for longitudinal EWAS,
+written in R. The implementation side of the doctoral framework for combining Illumina
+450K and EPIC data in one analysis.
+
+[Repository](https://github.com/kkamieniecka/ewas-crossarray-harmonise)
+
+## `hurdle-nanomethvar`
+
+A modular, Docker-based Nextflow DSL2 pipeline for Nanopore data, covering methylation
+calling and variant analysis in one reproducible workflow.
+
+[Repository](https://github.com/kkamieniecka/hurdle-nanomethvar)
+
+## `pgxBridge`
+
+An R-based pharmacogenomic workflow connecting variant data to interpretable prescribing
+recommendations. In development as part of the thesis.
+
+## RNA-Seq data readiness for machine learning
+
+Training and reference material on preparing RNA-Seq data for machine learning
+applications — what has to be true of a count matrix before a model is worth fitting.
+
+[Repository](https://github.com/kkamieniecka/rna-seq-data-for-ml)
+
+## `audio-abstracts`
+
+A small utility that reads research abstracts aloud via the ElevenLabs API, with the
+scientific jargon handled so that it is actually listenable.
+
+[Repository](https://github.com/kkamieniecka/audio-abstracts)
+
+## Community contributions
+
+I contribute to the [Galaxy Training Network](https://training.galaxyproject.org),
+[nf-core](https://nf-co.re), [Bioconda](https://bioconda.github.io) and the
+[ELIXIR RDMkit](https://rdmkit.elixir-europe.org).
