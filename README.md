@@ -5,19 +5,19 @@ and published to GitHub Pages by GitHub Actions on every push to `main`.
 
 Live site: <https://kkamieniecka.github.io>
 
-## Three things to do before this is finished
+## Two things to do before this is finished
 
-1. **Replace the profile photo.** `assets/profile.jpg` is a placeholder monogram.
-   Drop in a square headshot (at least 600 x 600 px, same filename). Use the *same photo*
-   you use on Google Scholar, LinkedIn and your university staff page — identical images
-   across profiles is one of the signals Google uses to tie them to one person.
-   Optionally replace `assets/favicon.png` too.
-2. **Add your ORCID iD and Google Scholar ID** to the `sameAs` array in
+1. **Add your ORCID iD and Google Scholar ID** to the `sameAs` array in
    `include/head.html`. The file has instructions at the top. This is the single most
    important edit for search visibility: it is the machine-readable statement that all
    of your profiles belong to the same person.
-3. **Turn on GitHub Pages.** Repository → Settings → Pages → *Source: GitHub Actions*.
-   The workflow in `.github/workflows/publish.yml` does the rest.
+2. **Use the same photo everywhere.** `assets/profile.jpg` is now your headshot; use the
+   identical image on Google Scholar, LinkedIn and your University of Bradford staff
+   page. Identical images across profiles is one of the signals Google uses to tie them
+   to one person.
+
+GitHub Pages is already configured to build from GitHub Actions, so pushes to `main`
+publish automatically.
 
 ## After it is live
 
