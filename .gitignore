@@ -1,7 +1,4 @@
 _site/
 .quarto/
-*.html
-!include/head.html
+*_files/
 .DS_Store
-
-/.quarto/
