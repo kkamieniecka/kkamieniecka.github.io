@@ -5,19 +5,17 @@ and published to GitHub Pages by GitHub Actions on every push to `main`.
 
 Live site: <https://kkamieniecka.github.io>
 
-## Two things to do before this is finished
+## Keeping the identity graph in sync
 
-1. **Add your ORCID iD and Google Scholar ID** to the `sameAs` array in
-   `include/head.html`. The file has instructions at the top. This is the single most
-   important edit for search visibility: it is the machine-readable statement that all
-   of your profiles belong to the same person.
-2. **Use the same photo everywhere.** `assets/profile.jpg` is now your headshot; use the
-   identical image on Google Scholar, LinkedIn and your University of Bradford staff
-   page. Identical images across profiles is one of the signals Google uses to tie them
-   to one person.
+`include/head.html` carries schema.org `Person` markup naming the ORCID iD
+(0009-0004-2454-5950) and the Google Scholar profile. When you add another profile —
+Scopus author page, ResearchGate, Wikidata, University of Bradford staff page — add its
+URL to the `sameAs` array there and, where it makes sense, as a visible link too. Google
+weighs crawlable links as well as the structured data.
 
-GitHub Pages is already configured to build from GitHub Actions, so pushes to `main`
-publish automatically.
+Use the same photo (`assets/profile.jpg`) on every one of those profiles.
+
+GitHub Pages builds from GitHub Actions, so pushes to `main` publish automatically.
 
 ## After it is live
 

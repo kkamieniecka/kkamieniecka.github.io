@@ -5,7 +5,9 @@ description-meta: "Peer-reviewed articles, preprints and conference posters by K
 ---
 
 Work published before 2023 appears under my maiden name, **Katarzyna Murat**.
-A BibTeX file of everything on this page is available: [`references.bib`](references.bib).
+The same record is available on [ORCID](https://orcid.org/0009-0004-2454-5950) and
+[Google Scholar](https://scholar.google.com/citations?user=YPBOoe8AAAAJ); a BibTeX file of everything on
+this page is here: [`references.bib`](references.bib).
 
 ## Peer-reviewed articles
 

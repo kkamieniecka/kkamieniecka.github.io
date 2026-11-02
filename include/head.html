@@ -1,19 +1,10 @@
 <!--
-  schema.org Person markup. This is what helps Google link all of your
-  profiles to one person entity.
+  schema.org Person markup. This is what tells Google that the ORCID record, the
+  Google Scholar profile, the LinkedIn page and this site all describe one person.
 
-  TO DO (one-off): add two more entries to the "sameAs" array below, your ORCID
-  iD and your Google Scholar profile, e.g.
-
-      "sameAs": [
-        "https://github.com/kkamieniecka",
-        "https://www.linkedin.com/in/kkamieniecka",
-        "https://orcid.org/0000-0002-1234-5678",
-        "https://scholar.google.com/citations?user=XXXXXXXXXXXX"
-      ]
-
-  Do not leave placeholder IDs in place - a wrong ID is worse than none.
-  JSON does not allow comments, so edit the array directly.
+  Keep the "sameAs" array in sync whenever you add a new profile (Scopus author page,
+  ResearchGate, Wikidata, a university staff page). JSON does not allow comments, so
+  edit the arrays directly and keep the file valid JSON.
 -->
 <script type="application/ld+json">
 {
@@ -55,7 +46,15 @@
     "FAIR data",
     "Research data stewardship"
   ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "ORCID",
+    "value": "0009-0004-2454-5950",
+    "url": "https://orcid.org/0009-0004-2454-5950"
+  },
   "sameAs": [
+    "https://orcid.org/0009-0004-2454-5950",
+    "https://scholar.google.com/citations?user=YPBOoe8AAAAJ",
     "https://github.com/kkamieniecka",
     "https://www.linkedin.com/in/kkamieniecka"
   ]

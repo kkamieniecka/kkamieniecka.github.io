@@ -34,6 +34,10 @@ website:
   page-footer:
     left: "© 2026 Katarzyna Kamieniecka"
     right:
+      - text: "ORCID"
+        href: https://orcid.org/0009-0004-2454-5950
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=YPBOoe8AAAAJ
       - text: "GitHub"
         href: https://github.com/kkamieniecka
       - text: "LinkedIn"

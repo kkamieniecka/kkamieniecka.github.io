@@ -23,6 +23,8 @@ clozapine. Alongside the research I lead data stewardship training for ELIXIR-UK
 delivering around 30 hands-on workshops a year.
 
 ::: {.badges}
+[ORCID](https://orcid.org/0009-0004-2454-5950)
+[Google Scholar](https://scholar.google.com/citations?user=YPBOoe8AAAAJ)
 [GitHub](https://github.com/kkamieniecka)
 [LinkedIn](https://www.linkedin.com/in/kkamieniecka)
 [Publications](publications.qmd)
