@@ -1,0 +1,25 @@
+---
+title: "Skills"
+pagetitle: "Skills — Katarzyna Kamieniecka"
+description-meta: "Technical skills in genomics and epigenomics, workflow engineering, statistics and machine learning, data stewardship and training, plus selected open-source and community work."
+---
+
+| | |
+|---|---|
+| **Genomics & epigenomics** | Illumina Infinium methylation arrays (450K, EPIC), EWAS, GWAS, rare-variant analysis, cfDNA / liquid biopsy, MBD-seq, RNA-seq, Nanopore methylation |
+| **Workflow engineering** | Nextflow DSL2, nf-core, Galaxy, Docker, Singularity, Linux, AWS, HPC |
+| **Statistics & ML** | R, statistical genetics, PLINK, machine learning on omics features |
+| **Data stewardship** | FAIR principles, metadata management, data lineage and ownership, data catalogues, GA4GH-aligned validation, ontology-based checks, governance and compliance |
+| **Training** | Workshop and curriculum design, technical documentation, tutorials, mentorship, training-effectiveness evaluation |
+| **AI & automation** | LLM tooling, prompt engineering, retrieval-augmented generation, agentic workflows, AI safety |
+
+: {tbl-colwidths="[28,72]"}
+
+## Selected open-source and community work
+
+- **EWAS-Galaxy / `ewastools`** (2020 — present) — community-facing workflow suite for population epigenetics, published in *GigaScience*
+- **Galaxy Training Network** — 26 published or reviewed open-access tutorials and learning resources; editorial board
+- **ELIXIR / GOBLET Train-the-Trainer** (2024 — 2027) — co-lead across seven European ELIXIR Nodes and EMBL-EBI
+- Contributions to **nf-core**, **Bioconda** and the **ELIXIR RDMkit**
+
+[Publications →](publications.qmd)

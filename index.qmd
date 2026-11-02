@@ -77,4 +77,4 @@ programmes across European ELIXIR Nodes.
 - [2020 — 2026 (expected)]{.when}<br>[PhD Researcher, Computational Biology & Pharmacoepigenomics]{.what} · University of Bradford
 :::
 
-[Full CV →](cv.qmd)
+[Skills and open-source work →](skills.qmd)

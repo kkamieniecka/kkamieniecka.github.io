@@ -44,7 +44,7 @@ quarto render         # one-off build into _site/
 | `software.qmd` | open-source tools |
 | `publications.qmd` | publication list (generated from Crossref metadata) |
 | `teaching.qmd` | training and teaching |
-| `cv.qmd` | CV |
+| `skills.qmd` | skills, plus selected open-source and community work |
 | `references.bib` | BibTeX for every publication listed |
 | `include/head.html` | schema.org `Person` JSON-LD |
 | `styles.scss` | theme overrides |
